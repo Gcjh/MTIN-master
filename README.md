@@ -20,6 +20,8 @@ If you are use this code for you research, please cite our paper.
 * transformer == 4.12.3
 * scipy == 1.6.2
 * spacy == 3.2.0
+* digitalepidemiologylab/covid-twitter-bert-v2-mnli
+
 
 # Run
 Running MTIN is followed as:
