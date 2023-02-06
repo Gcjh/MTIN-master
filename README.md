@@ -4,14 +4,21 @@ This project involves the code and supplementary materials of paper "Improving S
 # Citation
 If you are use this code for you research, please cite our paper.
 
-    @misc{,
-          title={Improving Stance Detection with Multi-task Interaction Network}, 
-          author={},
-          year={},
-          eprint={},
-          archivePrefix={},
-          primaryClass={}
-    }
+ @inproceedings{CHAI-MTIN,
+                title = {Improving Multi-task Stance Detection with Multi-task Interaction Network},
+                author = {Chai, Heyan  and
+                    Tang, Siyu  and
+                    Cui, Jinhao  and
+                    Ding, Ye  and
+                    Fang, Binxing  and
+                    Liao, Qing},
+                booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, EMNLP 2022},
+                year = {2022},
+                address = {Abu Dhabi, United Arab Emirates},
+                publisher = {Association for Computational Linguistics},
+                url = {https://aclanthology.org/2022.emnlp-main.193},
+                pages = {2990--3000},
+}
 
 # Dependencies
 * pytorch == 1.9.0
