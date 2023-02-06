@@ -16,7 +16,7 @@ If you are use this code for you research, please cite our paper.
                 year = {2022},
                 address = {Abu Dhabi, United Arab Emirates},
                 publisher = {Association for Computational Linguistics},
-                url = {https://aclanthology.org/2022.emnlp-main.193},
+                url = [{https://aclanthology.org/2022.emnlp-main.193}](https://aclanthology.org/2022.emnlp-main.193),
                 pages = {2990--3000},
     }
 
