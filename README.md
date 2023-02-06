@@ -4,7 +4,7 @@ This project involves the code and supplementary materials of paper "Improving S
 # Citation
 If you are use this code for you research, please cite our paper.
 
- @inproceedings{CHAI-MTIN,
+    @inproceedings{CHAI-MTIN,
                 title = {Improving Multi-task Stance Detection with Multi-task Interaction Network},
                 author = {Chai, Heyan  and
                     Tang, Siyu  and
@@ -18,7 +18,7 @@ If you are use this code for you research, please cite our paper.
                 publisher = {Association for Computational Linguistics},
                 url = {https://aclanthology.org/2022.emnlp-main.193},
                 pages = {2990--3000},
-}
+    }
 
 # Dependencies
 * pytorch == 1.9.0
